@@ -17,7 +17,12 @@
   <img align="center" alt="Rodrigodante11-Js" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigodante11-HTML" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrigodante11-CSS" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rodrigodante11-CSS" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/sql-original.svg">
+  <img align="center" alt="Rodrigodante11-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Rodrigodante11-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Rodrigodante11-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Rodrigodante11-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+        
+          
   <img align="right" alt="Rodrigodante11-code" height="200" width="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 </div>
  
