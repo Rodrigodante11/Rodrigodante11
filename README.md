@@ -23,7 +23,7 @@
   <img align="center" alt="Rodrigodante11-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
         
           
-  <img align="right" alt="Rodrigodante11-code" height="200" width="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+  <img align="right" alt="Rodrigodante11-code" height="150" width="150" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 </div>
  
    
