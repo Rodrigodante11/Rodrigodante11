@@ -1,7 +1,7 @@
 ### Rodrigo Augusto  👨‍💻
 
 
-- 💻 Atualmente trabalhando com aplicação web e desktop
+- 💻 Atualmente trabalhando com aplicação web e desktop usando Python e javascript
 - 📚 Estudando engenharia da computação
 - 📧 Email: rodrigoaugusto839@gmail.com
 
