@@ -1,15 +1,35 @@
-### Rodrigo Augusto  👨‍💻
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ola,+Visitante!+👋;__Eu+Sou+Rodrigo+Augusto....;Seja+Bem+vindo+Ao+meu+Repositorio!&center=true&size=30">
+  </a>
+</h1>
+</div
+ 
+<hr>
+<hr>
+<div align="center">
+<!--  - 💻  -->
+  📚 Graduado em engenharia da computação
+  📧 Email: rodrigoaugusto839@gmail.com
+</div>
+<hr>
+<hr>
+<div align="center">
+  <img width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodrigodante11&theme=transparent" /></td>
+  <img width="525px" src="https://github-readme-stats.vercel.app/api?username=rodrigodante11&show_icons=true&theme=transparent" /></td>
+<!--   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodante11&show_icons=true&theme=blue-green&layout=compact" /></td>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodante11&hide_progress=true&theme=blue-green&layout=compact" /></td>
+  <img width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigodante11&theme=dark" /></td> -->
 
-- 💻 
-- 📚 Graduado em engenharia da computação
-- 📧 Email: rodrigoaugusto839@gmail.com
-
-
+</div>
+<hr>
+<hr>
+<!-- 
  <div>
    <a href="https://github.com/Rodrigodante11">
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigodante11&layout=compact&langs_count=7&theme=dracula"/>
- </div>
+ </div> -->
   
   <div style="display: inline_block"><br>
    <img align="center" alt="Rodrigodante11-Spring" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
