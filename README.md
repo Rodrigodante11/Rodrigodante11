@@ -17,7 +17,7 @@
 <hr>
 
   <img width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodrigodante11&theme=transparent" /></td>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=rodrigodante11&show_icons=true&theme=transparent" /></td>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rodrigodante11&show_icons=true&theme=transparent" /></td>
 <!--   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodante11&show_icons=true&theme=blue-green&layout=compact" /></td>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodante11&hide_progress=true&theme=blue-green&layout=compact" /></td>
   <img width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigodante11&theme=dark" /></td> -->
