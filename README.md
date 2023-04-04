@@ -11,7 +11,7 @@
 <hr>
 <hr>
 <div align="center">
-<!--  - 💻  -->
+ - 💻 
   📚 Graduado em engenharia da computação
   📧 Email: rodrigoaugusto839@gmail.com
 </div>
