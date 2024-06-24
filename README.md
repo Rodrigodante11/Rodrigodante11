@@ -35,7 +35,7 @@
   
   <div style="display: inline_block"><br>
    <img align="center" alt="Rodrigodante11-Spring" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-   <img align="center" alt="Rodrigodante11-React" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+   <img align="center" alt="Rodrigodante11-React" height="200" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original-wordmark.svg">
    <img align="center" alt="Rodrigodante11-Django" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
    <img align="center" alt="Rodrigodante11-mysql" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Rodrigodante11-postgreSQL" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
